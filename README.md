@@ -1,7 +1,5 @@
 Mechatronic engineer building embedded devices, engineering tools and desktop hardware—from PCB and firmware through software and enclosure design.
 
-## Selected projects
-
 ### SerialHub
 Cross-platform serial and TCP communication application built with Python and Textual.
 
