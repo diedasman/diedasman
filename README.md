@@ -21,6 +21,9 @@ Parametric prototyping PCB generator that creates KiCad boards and manufacturing
 [View EZProto](https://github.com/diedasman/EZProto)
 
 ### protoMIDI
+
+![protoMIDIpreview](assets/protoMIDI.gif)
+
 Custom nRF52840-based programmable controller with mechanical keys, rotary encoder, OLED display, USB and Bluetooth connectivity.
 
 * Custom electronics and wiring
