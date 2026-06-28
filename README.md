@@ -38,9 +38,9 @@ Custom nRF52840-based programmable controller with mechanical keys, rotary encod
 
 ### ESP32-STICK
 
-| ESP-STICK 3D View | ESP-STICK Exploded Assembly 3D Bottom View | ESP-STICK Exploded Assembly 3D Top View |
+| ESP-STICK Assembly Bottom View | ESP-STICK Exploded Assembly View | ESP-STICK Assembly Top View |
 | --- | --- | --- |
-| ![ESP-STICK assembled 3D view](https://raw.githubusercontent.com/diedasman/ESP32-STICK/main/hardware/espstick.png) | ![ESP-STICK exploded assembly 3D bottom view](https://raw.githubusercontent.com/diedasman/ESP32-STICK/main/hardware/assembly-exploded-bottom.png) | ![ESP-STICK exploded assembly 3D top view](https://raw.githubusercontent.com/diedasman/ESP32-STICK/main/hardware/assembly-exploded.png) |
+| ![ESP-STICK assembly bottom view](https://raw.githubusercontent.com/diedasman/ESP32-STICK/main/hardware/assy-bottom.png) | ![ESP-STICK exploded assembly view](https://raw.githubusercontent.com/diedasman/ESP32-STICK/main/hardware/assy-exploded.png) | ![ESP-STICK assembly top view](https://raw.githubusercontent.com/diedasman/ESP32-STICK/main/hardware/assy-top.png) |
 
 Compact ESP32 development device designed around a custom desktop enclosure and accessible hardware interfaces.
 
