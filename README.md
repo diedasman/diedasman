@@ -1,7 +1,6 @@
 Mechatronic engineer building embedded devices, engineering tools and desktop hardware—from PCB and firmware through software and enclosure design.
 
-## About me
-My work focuses on practical hardware-software integration. I enjoy taking projects from an initial circuit or software concept through prototyping, firmware, application development, mechanical design, testing and documentation.
+My projects focuses on practical hardware-software integration. I enjoy taking projects from an initial circuit or software concept through prototyping, firmware, application development, mechanical design, testing and documentation.
 
 --- 
 
@@ -52,7 +51,11 @@ Parametric prototyping PCB generator that creates KiCad boards and manufacturing
 
 [View protoMIDI](https://github.com/diedasman/protoMIDI)
 
-![protoMIDIpreview](https://raw.githubusercontent.com/diedasman/protoMIDI/main/assets/protomidiassembly.png)
+![protoMIDI assembly](https://raw.githubusercontent.com/diedasman/protoMIDI/main/assets/protomidiassembly.png)
+
+| protoMIDI Exploded Front | protoMIDI Bare PCB |
+| --- | --- |
+| ![protoMIDI exploded front](https://raw.githubusercontent.com/diedasman/protoMIDI/main/assets/exploded-front.png) | ![protoMIDI bare PCB](https://raw.githubusercontent.com/diedasman/protoMIDI/main/assets/PCB-bare.png) |
 
 Compact nRF52840-based HID macropad with the control language of a small MIDI controller, now developed as a v1.0 custom PCB and enclosure handoff.
 
